@@ -37,7 +37,7 @@ def main():
         elif gpa >= 3.25:
             print(f"Good Job, {first_name} {last_name}! You are on the Honor Roll!")
         else:
-            print(f"Keep trying, {first_name} {last_name}! You can do even better!")
+            print(f"You did not make Dean's list or honor roll, {first_name} {last_name}! C's get degrees!")
             
 # execute main
 if __name__ == "__main__":
